@@ -1,0 +1,26 @@
+#div1 {
+  background-color: green;
+  margin-top: 1%;
+  margin-left: -0.5%;
+  margin-right: -0.5%;
+}
+
+#AweT {
+  color: purple;
+}
+
+#div2 {
+  width: 95%;
+  border-style: dashed;
+  border-color: black;
+  padding: 8px;
+  margin: 0 auto;
+}
+
+#fb{
+  color: red;
+}
+
+#Alsofb {
+  color: darkgreen;
+}

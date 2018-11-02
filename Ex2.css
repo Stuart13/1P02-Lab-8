@@ -1,0 +1,43 @@
+#div1 {
+  margin: 0 auto;
+  border-color: purple;
+  border-style: dotted;
+  width: 98%;
+  min-height: 280px;
+}
+
+#boxtext {
+  text-align: center;
+  margin-top: 20%;
+}
+
+#greentext {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.orangetext{
+    color: orange;
+    font-size: 30px;
+}
+
+#redtext {
+  color:red;
+  text-transform: lowercase;
+  font-size: 30px;
+}
+
+.purpletext{
+  color: purple;
+  text-align: right;
+  font-size: 10px;
+}
+
+#cant {
+  text-transform: uppercase;
+  color: yellow;
+  text-align: right;
+  font-size: 10px;
+}
